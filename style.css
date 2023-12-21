@@ -148,6 +148,8 @@ main {
 }
 
 button.resume {
+    color: black;
+    border-color: black;
     background: transparent;
     height: 58px;
     width: 158px;
